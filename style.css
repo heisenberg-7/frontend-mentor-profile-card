@@ -1,0 +1,114 @@
+body{
+  background-color: 	#19a2ae;
+  background-image: url('images/bg-pattern-top.svg'),url('images/bg-pattern-bottom.svg');
+  background-repeat: no-repeat;
+  background-position:top -18rem left -5rem,right -1.5rem top 20rem;
+  background-size:45rem,48rem;
+ }
+ .container{
+   background-color: white;
+   width:27%;
+   min-height:450px;
+   background-image: url('images/bg-pattern-card.svg');
+   background-repeat: no-repeat;
+   background-size: 100% 33%;
+   background-position: top;
+   position: relative;
+   text-align: center;
+   top:130px;
+   left:33%;
+   border-radius: 20px;
+
+
+   }
+  .profile{
+    position: absolute;
+    top:20%;
+    left:35%;
+
+    border-radius: 60px;
+    border:2px double white;
+      height: 25%;
+
+  }
+  .V{
+    position: absolute;
+    top:48%;
+    left:32%;
+    font-size: 18px;
+    font-weight:700;
+    font-family: 'Kumbh Sans',sans-serif;
+
+  }
+  .L{
+    position: absolute;
+    top:57%;
+    left:41%;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Kumbh Sans',sans-serif;
+    color:#969696;
+  }
+  .g1{
+    position: absolute;
+    top:80%;
+    left:11%;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Kumbh Sans',sans-serif;
+
+  }
+  .g2{
+    position: absolute;
+    top:80%;
+    left:43%;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Kumbh Sans',sans-serif;
+
+  }
+ .g3{
+   position: absolute;
+   top:80%;
+   left:83%;
+   font-size: 18px;
+   font-weight: 700;
+   font-family: 'Kumbh Sans',sans-serif;
+
+ }
+.hr{
+
+  position: absolute;
+  top:74%;
+  width:100%;
+}
+.g22{
+  position: absolute;
+  top:87%;
+  left:43%;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+}
+.g11{
+  position: absolute;
+  top:87%;
+  left:5%;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+}
+.g33{
+  position: absolute;
+  top:87%;
+  left:80%;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Kumbh Sans',sans-serif;
+  text-align: center;
+  color:#969696;
+}
